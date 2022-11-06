@@ -3,6 +3,7 @@
 ![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
+Here is the live link https://bit.ly/3h7P9Fn
 
 Thanks for checking out this front-end coding challenge.
 
